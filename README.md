@@ -12,8 +12,8 @@ A simple and easy to use steam game idling bot.
 <details>
 
 * **Idle up to 33 games at once**
-* **Automatically start idle when not playing a game**
-* **Edit necessary settings via config file**
+* **Automatically start idling when not ingame**
+* **Edit necessary settings via a config file**
 * **Clean and compact code**
 * **Fairly robust and capable of handling API errors**
 

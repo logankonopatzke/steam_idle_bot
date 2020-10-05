@@ -1,0 +1,16 @@
+{
+  "name": "steamidlebot",
+  "version": "1.2.0",
+  "description": "A steam bot used for idling a list of games",
+  "main": "app.js",
+  "dependencies": {
+    "steam-totp": "^2.1.0",
+    "steam-user": "^4.12.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Logan",
+  "license": "ISC"
+}

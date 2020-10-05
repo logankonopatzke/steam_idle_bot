@@ -1,0 +1,14 @@
+{
+    "Accounts": [
+        {
+            "Username": "your-account-username",
+            "Password": "your-account-password",
+            "SharedSecret": "your-shared-secret",
+            "AppIDList": [
+                730,
+                50
+            ],
+            "TimeoutInSeconds": 300
+        }
+    ]
+}
